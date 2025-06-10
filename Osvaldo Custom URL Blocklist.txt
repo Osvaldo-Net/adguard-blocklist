@@ -1,3 +1,2 @@
-0.0.0.0 pcloud.link
 0.0.0.0 nts.embluemail.com
 ||*.pcloud.link^
