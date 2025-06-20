@@ -1,2 +1,4 @@
 0.0.0.0 nts.embluemail.com
 ||*.pcloud.link^
+0.0.0.0 jyb.dk
+0.0.0.0 safelinks.protection.outlook.com
