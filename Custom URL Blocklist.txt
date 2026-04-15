@@ -2,3 +2,15 @@
 ||*.pcloud.link^
 0.0.0.0 jyb.dk
 0.0.0.0 safelinks.protection.outlook.com
+0.0.0.0 primeserver13.duckdns.org
+0.0.0.0 accounting-invoices.duckdns.org
+0.0.0.0 privatemyhost.duckdns.org
+0.0.0.0 julytimeshow.duckdns.org
+0.0.0.0 baadigi.com
+0.0.0.0 api.baadigi.com
+0.0.0.0 admin.baagi.com
+0.0.0.0 spacelogsapp.com
+0.0.0.0 yourtryinc.com
+0.0.0.0 gragorian.com
+0.0.0.0 rb.gy
+0.0.0.0 bayfiles.com
