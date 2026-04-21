@@ -14,3 +14,9 @@
 0.0.0.0 gragorian.com
 0.0.0.0 rb.gy
 0.0.0.0 bayfiles.com
+0.0.0.0 smonstr.ru
+0.0.0.0 snlyjkf3vs.ru
+0.0.0.0 snovimgodomyap.ru
+0.0.0.0 snitchlittle.info
+0.0.0.0 check-up.co
+
