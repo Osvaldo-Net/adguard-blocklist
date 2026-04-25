@@ -19,4 +19,5 @@
 0.0.0.0 snovimgodomyap.ru
 0.0.0.0 snitchlittle.info
 0.0.0.0 check-up.co
+0.0.0.0 airepagos.st
 
